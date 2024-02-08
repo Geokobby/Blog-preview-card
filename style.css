@@ -13,12 +13,13 @@ body{
 }
 .main_div{
     border: solid black;
-    max-width: 21.3em;
+    max-width: 25em;
     margin-inline: auto;
 }
 
 .svg__img{
     margin-bottom: 1em;
+    text-align: center;
 }
 
 .head{
@@ -28,4 +29,26 @@ body{
     background-color: yellow;
     font-weight: bolder;
     margin-bottom: 1em;
+}
+
+.date{
+    margin-bottom: 1em;
+}
+
+.element__head{
+    margin-bottom: 1em;
+}
+
+.text{
+    margin-bottom: 1em;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.name{
+    font-weight: bold;
 }
