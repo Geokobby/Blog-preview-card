@@ -34,8 +34,8 @@ body{
     border-radius: 1em;
 }
 .text__section{
-    /* border: solid; */
-    margin: 25px;
+  
+    margin: 18px;
 }
 .head{
    border-radius: 0.3em;
@@ -54,6 +54,11 @@ body{
     font-weight: 600;
 }
 
+:hover.element__head{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+   
+}
 .element__head{
     margin-bottom: 1em;
     color: hsl(0, 0%, 7%);
@@ -64,6 +69,8 @@ body{
     margin-bottom: 1em;
     color: hsl(0, 0%, 50%);
     font-weight: 600;
+ 
+
 }
 
 .profile{
