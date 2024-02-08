@@ -29,10 +29,10 @@ body{
      margin-block: 1.5em;
     
     text-align: center;
-    
-    
 }
-
+.cuver{
+    border-radius: 1em;
+}
 .text__section{
     /* border: solid; */
     margin: 25px;
