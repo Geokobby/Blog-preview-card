@@ -13,8 +13,11 @@ body{
 }
 .main_div{
     border: solid black;
+    border-radius: 1.5em;
     max-width: 25em;
     margin-inline: auto;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow:5px 10px; 
 }
 
 .svg__img{
