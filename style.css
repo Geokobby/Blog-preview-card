@@ -9,6 +9,8 @@
 body{
     /* border: solid; */
     width: 100%;
+    font-family: figtree;
+    font-size: 16px;
    
 }
 .main_div{
@@ -35,7 +37,7 @@ body{
     text-align: center;
     background-color: hsl(47, 88%, 63%);
     color:  hsl(0, 0%, 7%);
-    font-weight: bolder;
+    font-weight: 800;
     margin-bottom: 1em;
     padding: 0.3em;
 }
@@ -43,16 +45,19 @@ body{
 .date{
     margin-bottom: 1em;
     color: hsl(0, 0%, 7%);
+    font-weight: 600;
 }
 
 .element__head{
     margin-bottom: 1em;
     color: hsl(0, 0%, 7%);
+    font-weight: 800;
 }
 
 .text{
     margin-bottom: 1em;
     color: hsl(0, 0%, 50%);
+    font-weight: 600;
 }
 
 .profile{
@@ -62,6 +67,6 @@ body{
 }
 
 .name{
-    font-weight: bold;
+    font-weight: 800;
     color: hsl(0, 0%, 7%);
 }
