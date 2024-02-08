@@ -18,17 +18,22 @@ body{
 }
 
 .svg__img{
-    margin-bottom: 1em;
+     margin-bottom: 1em;
     text-align: center;
 }
 
-.head{
+.text__section{
     /* border: solid; */
+    margin: 25px;
+}
+.head{
+   border-radius: 0.3em;
     max-width: 6em;
     text-align: center;
     background-color: yellow;
     font-weight: bolder;
     margin-bottom: 1em;
+    padding: 0.3em;
 }
 
 .date{
