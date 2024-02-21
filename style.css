@@ -85,5 +85,8 @@ body{
 }
 
 @media screen and (max-width: 420px){
+    .main_div{
+        max-width: em;
+    }
     
 }
