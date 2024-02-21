@@ -84,9 +84,11 @@ body{
     color: hsl(0, 0%, 7%);
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 480 px){
     .main_div{
-        max-width: em;
+    max-width: 23em;
+  
+
     }
     
 }
