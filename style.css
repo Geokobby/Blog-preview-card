@@ -25,6 +25,10 @@ body{
     box-shadow:5px 10px; 
 }
 
+.attribution{
+    margin-top: 2em ;
+    color: black;
+}
 .svg__img{
      margin-block: 1.5em;
     
