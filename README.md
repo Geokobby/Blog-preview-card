@@ -77,8 +77,6 @@ Image placement and sizing
 - Frontend Mentor - [@Geokobby](https://www.frontendmentor.io/profile/Geokobby)
 - Twitter - [@Geokobby_](https://twitter.com/Geokobby_)
 
-
-
 ## Acknowledgments
 
 Thanks to W3schools.com for insightful code to help make reference to.
