@@ -36,8 +36,8 @@ screenshots are in the screenshot folder
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Blog-preview-card](https://github.com/Geokobby/Blog-preview-card)
+- Live Site URL: [live site ](https://geokobby.github.io/Blog-preview-card/)
 
 ## My process
 
